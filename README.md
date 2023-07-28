@@ -1,12 +1,6 @@
 <div>
 
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
-
-	div {
-		font-family: 'Lobster', cursive;
-	}
-	
 	.center{
 		display: flex;
 		justify-content: center;
